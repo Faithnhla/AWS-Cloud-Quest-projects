@@ -7,3 +7,4 @@ Each assignment simulated real business problems and strengthened my cloud archi
 
 
 
+[984f8445-27ff-41d1-88c9-a88ed6ff9c83.pdf](https://github.com/user-attachments/files/24108884/984f8445-27ff-41d1-88c9-a88ed6ff9c83.pdf)
