@@ -1,1 +1,31 @@
+#Problem statement:
+The school wants to upgrade its class scheduling system, currently running on an Amazon EC2 instance, to provide greater computing power and memory capacity.
 
+#Solution Request:
+Scale up the existing Amazon EC2 instance by selecting a larger instance type to enhance the application's performance.
+
+# Project Summary:
+This project demonstrates how to vertically scale an Amazon EC2 instance to improve application performance. It includes exploring EC2 instance types, filtering instances based on performance attributes, 
+connecting securely to the instance, reviewing instance metadata, and stopping and starting the instance to apply a larger general-purpose instance type (m4.large).
+
+#Services used:
+Amazon EC2
+• Explored and compared EC2 instance types
+• Filtered instance types based on compute and memory attributes
+• Changed the instance type to a larger general-purpose instance (m4.large)
+• Started and stopped the EC2 instance using the console
+
+EC2 Instance Connect
+• Connected securely to the EC2 instance through the browser
+
+Instance Metadata Service
+• Viewed EC2 instance metadata using the instance’s public IP address
+
+#In this lab, I completed the following tasks:
+• Explored available Amazon EC2 instance types and their specifications.
+• Filtered EC2 instance types based on required compute and memory attributes.
+• Connected to the EC2 instance using EC2 Instance Connect.
+• Viewed instance metadata through the public IP address in a web browser.
+• Stopped the EC2 instance to prepare for resizing.
+• Changed the instance type to m4.large.
+• Restarted the EC2 instance and verified improved performance capacity.
