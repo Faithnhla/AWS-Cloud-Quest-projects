@@ -1,1 +1,21 @@
+# Problem statement:
+The island stabilization team wants to increase the reliability and availability of its current stabilization system.
 
+#Solution Request:
+Deploy the stabilization system across two Amazon EC2 instances in separate Availability Zones within the same AWS Region.
+
+#Project Summary:
+This project demonstrates how to improve system reliability and availability by launching Amazon EC2 instances across multiple Availability Zones. It includes configuring a user data script to automatically 
+display instance details in a browser and expanding the deployment to ensure high availability through redundancy across zones.
+
+#Services used:
+Amazon EC2
+• Launched virtual server instances
+• Configured user data scripts for automated instance setup
+• Deployed instances across multiple Availability Zones to improve availability
+
+#In this lab, I completed the following tasks:
+• Launched an Amazon EC2 instance.
+• Configured a user data script to display instance details in a web browser.
+• Launched a second EC2 instance in a different Availability Zone within the same AWS Region.
+• Verified that both instances were running to support higher availability of the stabilization system.
