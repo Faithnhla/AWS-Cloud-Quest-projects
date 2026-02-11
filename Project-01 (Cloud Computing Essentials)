@@ -1,1 +1,21 @@
+# Problem statement:
+The web team wants a solution to improve the reliability of their beach wave conditions page.
+
+# Solution Request:
+Improve website reliability by migrating to Amazon S3 static website hosting.
+
+# Project Summary:
+This project demonstrates how to host a static website on Amazon S3, improve availability by leveraging AWS’s durable storage service, and apply proper security practices when exposing a public website.
+
+# Services used:
+Amazon S3
+•	Hosted the static website
+•	Managed file uploads and object permissions
+•	Configured bucket policy for public website access
+
+# In this lab, I completed the following tasks:
+•	Enabled static website hosting on an Amazon S3 bucket.
+•	Configured and reviewed the bucket policy to ensure secure public access for website files.
+•	Uploaded website assets and validated that the site loads successfully via the S3 website endpoint.
+•	Renamed index.html to waves.html as part of the custom task.
 
