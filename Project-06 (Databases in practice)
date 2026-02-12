@@ -1,1 +1,27 @@
+# Problem statement:
+The insurance company wants to help its database administrators spend less time on operational tasks, such as patching and managing database infrastructure. They also want a solution that improves database 
+availability and efficiency.
 
+# Solution Request:
+Migrate to Amazon RDS to automate routine database administration tasks while implementing Multi-AZ deployment and a read replica to provide high availability and improved performance.
+
+# Project Summary:
+This project demonstrates how to modernize database infrastructure by migrating to Amazon RDS. It focuses on reducing administrative overhead through managed services, improving availability with Multi-AZ 
+deployment, enabling automated backups, and enhancing performance by creating a read replica. The solution increases reliability, scalability, and operational efficiency for the organization.
+
+# Services used:
+Amazon RDS
+• Launched a managed relational database instance
+• Configured Multi-AZ deployment for high availability
+• Enabled automated backups
+• Created a read replica to improve read performance and scalability
+
+AWS Database Services
+• Explored AWS managed database offerings to evaluate suitable solutions
+
+# In this lab, I completed the following tasks:
+• Explored AWS database service options.
+• Launched an Amazon RDS instance for the application database.
+• Configured Multi-AZ deployment to improve availability and fault tolerance.
+• Enabled and reviewed automated backup settings.
+• Created a read replica of the primary database using a db.t3.xlarge instance to enhance performance and scalability.
