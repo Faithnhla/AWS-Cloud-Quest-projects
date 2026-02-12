@@ -1,1 +1,28 @@
+# Problem statement:
+The surf shop wants a cost estimate for scalable cloud architecture to support their online store.
 
+# Solution Request:
+Create a cost estimate for a scalable Amazon EC2 architecture that can handle varying levels of demand, including peak usage periods.
+
+# Project Summary:
+This project demonstrates how to use AWS pricing tools to estimate the cost of running a scalable Amazon EC2 architecture. It includes creating logical pricing groups, estimating EC2 usage based on demand patterns
+, adjusting instance types to optimize cost, and generating a shareable pricing estimate link. The goal is to understand cloud economics and evaluate cost-effective infrastructure decisions without upfront capital
+expenses.
+
+# Services used:
+AWS Pricing Calculator
+• Created logical pricing groups
+• Generated an Amazon EC2 cost estimate
+• Adjusted instance types to compare pricing scenarios
+• Generated a shareable estimate link
+
+Amazon EC2
+• Estimated compute usage based on projected demand
+• Modified instance type to t2.micro for cost comparison
+
+# In this lab, I completed the following tasks:
+• Created logical pricing groups to organize infrastructure components.
+• Built a cost estimate for projected Amazon EC2 usage based on demand.
+• Evaluated pricing for scalable architecture to support peak traffic.
+• Changed the EC2 instance type to t2.micro within the estimate to compare costs.
+• Generated and reviewed a new shareable price estimate link.
